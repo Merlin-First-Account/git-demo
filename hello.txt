@@ -6,5 +6,5 @@ hello zhihao! hello git!
 hello zhihao! hello git!
 hello zhihao! hello git!
 hello zhihao! hello git!
-hello zhihao! hello git!
-hello zhihao! hello git!
+hello zhihao! hello git! master test
+hello zhihao! hello git! 
