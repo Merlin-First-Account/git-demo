@@ -1,5 +1,5 @@
-hello zhihao! hello git! 2222222
-hello zhihao! hello git! 3333333
+hello zhihao! hello git! 2
+hello zhihao! hello git! 3
 hello zhihao! hello git!
 hello zhihao! hello git!
 hello zhihao! hello git!
