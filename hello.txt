@@ -7,4 +7,4 @@ hello zhihao! hello git!
 hello zhihao! hello git!
 hello zhihao! hello git!
 hello zhihao! hello git!
-hello zhihao! hello git!
+hello zhihao! hello git! hot-fix test
